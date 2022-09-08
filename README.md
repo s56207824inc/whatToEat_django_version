@@ -1,2 +1,2 @@
-# whatToEat_django_version
-hi
+# 命運的轉盤
+![](https://i.imgur.com/nSNx4Jb.png)
